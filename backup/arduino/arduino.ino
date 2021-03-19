@@ -44,7 +44,7 @@ void loop()
       
       //delay(1000);
     } 
-  Wire.requestFrom(address, 2);
+  //Wire.requestFrom(address, 2);
   //address: the 7-bit address of the device to request bytes from
   //quantity: the number of bytes to request
   delay(1000);
